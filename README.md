@@ -1,5 +1,5 @@
 # Simple_client-server
-Assignment for an internship in Infotecs
+
 ### Клиент
 Программа 1. 
 Первый поток - считывает данные
